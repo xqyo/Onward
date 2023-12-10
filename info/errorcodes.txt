@@ -1,0 +1,18 @@
+? = recommendation, may not fix
+() = more info 
+0x = start of code
+
+
+- ERRORS (ECODE) -
+0x1 -> Client not up-to-date                                                                                  ? update loader ?
+0x12 -> No cheat options to select (Dropdown Box Loader Error, return ?, no Dropdown Box options set)         ? update loader ?
+0x18 -> No cheat selected (Dropdown Box Loader Error, return -1)                                              ? update loader ?
+0x59 -> No process running (Process By Name Error, return 0, PROCESS_NOT_FOUND or PROCESS_NOT_RUNNING)         ? start game ?
+0x61 -> HWID invalid (HWID different in database, different device)
+0x67 -> Login grouping error (Login error)
+0x78 -> Username or password invalid error (Login error)
+
+
+- INFOS (ICODE) -
+0x119 -> This cheat requires injection at a specific point in loading
+0x128 -> Setting HWID (No HWID in database, adding active device's HWID)

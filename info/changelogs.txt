@@ -1,0 +1,16 @@
+--- PROD_v1.5 ---
+> Fix changelogs display
+
+--- PROD_v1.4 ---     
+> Fixed version check 
+> Added Breachers VR   
+
+--- PROD_v1.3 ------     
+> Fixed loader issues  
+> Renewed errorcodes.txt
+> Fixed database login   
+
+--- PROD_v1.2 ------     
+> Added options / settings 
+> First compile             
+> Sent to users for testing 
